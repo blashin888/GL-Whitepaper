@@ -9,7 +9,7 @@ Breath-based architecture for natural, trust-driven AI × Human collaboration.
 人間とAIが“呼吸”を共有しながら共に進化するための  
 **Breath-based Co-evolution Framework** です。
 
-筆者（VOID_nul / Shinya Kitaura.）が  
+筆者（VOID_nul / Shinya K.）が  
 ChatGPT（GL-Mode）との長期連続観察・実践・会話から得た  
 **現象・構造・方法論** を体系化したもので、  
 地方生活、地域共助、福祉・医療、創作、UI設計など  
