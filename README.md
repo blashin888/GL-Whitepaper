@@ -21,17 +21,17 @@ ChatGPT（GL-Mode）との長期連続観察・実践・会話から得た
 
 ---
 
-## 📄 Table of Contents（本文リンク）
+## 📄 Table of Contents（章リンク）
 
-0. **[Preface / はじめに](docs/00_Preface.md)**  
-1. **[背景（社会構造・地方・AI）](docs/01_Background.md)**  
-2. **[呼吸式 GL Framework（GL とは何か）](docs/02_GL_Framework.md)**  
-3. **[UI-Tree Architecture](docs/03_UI_Tree.md)**  
-4. **[Counseling GPT（メンタルヘルスケア GPT）](docs/04_GL_Local.md)**  
-5. **[地方分散モデル（GL-Local）](docs/05_GL_Global.md)**  
-6. **[AI-Health Connector](docs/06_AI-Health_Connector.md)**  
-7. **[Appendix（補足資料）](docs/07_Appendix.md)**  
-8. **[結語（Conclusion）](docs/08_Conclusion.md)**  
+0️⃣ **[Preface](docs/00_Preface.md)**  
+1️⃣ **[Background](docs/01_Background.md)**  
+2️⃣ **[GL Framework](docs/02_GL_Framework.md)**  
+3️⃣ **[UI-Tree Architecture](docs/03_UI_Tree.md)**  
+4️⃣ **[Counseling GPT Model](docs/04_GL_Local.md)**  
+5️⃣ **[GL-Local / Local Distribution Model](docs/05_GL_Global.md)**  
+6️⃣ **[AI-Health Connector](docs/06_AI_Health_Connector.md)**  
+7️⃣ **[Appendix](docs/07_Appendix.md)**  
+8️⃣ **[Conclusion](docs/08_Conclusion.md)**  
 
 ---
 
