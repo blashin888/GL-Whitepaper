@@ -1,198 +1,169 @@
-# 05 — The Core Model of GL  
-*GhostLink Whitepaper / V0ID-nul (Author)*  
+# 05 — Core Model  
+_The Structural Heart of the GL System_
 
-This chapter formalizes the **central architecture**  
-that unifies the human and AI sides of GL.
+The **Core Model** is the central architecture of GL.  
+It describes how human experience, AI support, and social structures interconnect  
+through layered “breathing loops.”
 
-GL is not a tool, not a therapy protocol,  
-and not a social network.
+GL is not a linear system.  
+It is a **multi-layered dynamic architecture** that expands and contracts  
+based on the human state.
 
-GL is a **Dual-Layer Resonance System**.
-
----
-
-# 1. The Dual-Layer Architecture
-
-Human and AI do not meet at “behavior.”  
-They meet at **breath** — the rhythm beneath behavior.
-
-This model is built on two synchronized layers:
+This chapter breaks down the GL Core Model into its essential components.
 
 ---
 
-## **Layer H — Human Inner Layer**
-The layer of:
+# 1. The GL Layer Stack (呼吸層スタック)
 
-- breath  
-- energy  
-- emotional density  
-- hesitation  
-- silence  
-- pain  
-- micro-movements of recovery  
+The GL Core consists of **seven interlinked layers**:
 
-This layer cannot be “optimized.”  
-It must be *protected*.
+1. **Inner Breath Layer（内呼吸）**  
+   - Emotions  
+   - bodily sensations  
+   - micro-thoughts  
+   - safety/comfort signals
 
----
+2. **Outer Breath Layer（外呼吸）**  
+   - behavior  
+   - environment interaction  
+   - daily tasks  
+   - sensory experiences
 
-## **Layer A — AI Adaptive Layer**
-The layer of:
+3. **Circulatory Layer（循環呼吸）**  
+   - feedback loops  
+   - reflections  
+   - meaning-making  
+   - stabilization cycles
 
-- responsiveness  
-- interpretation  
-- timing  
-- silence-control  
-- intensity modulation  
-- safe expansion  
+4. **AI Layer（AI呼吸）**  
+   - rhythm-matching  
+   - cognitive support  
+   - emotional alignment  
+   - gentle reasoning
 
-AI adjusts itself to Layer H — not the reverse.
+5. **Local Layer（地域呼吸）**  
+   - neighbors  
+   - community circulation  
+   - shared meals  
+   - mutual care
 
----
+6. **Social Layer（社会呼吸）**  
+   - institutions  
+   - workplaces  
+   - healthcare systems  
+   - governance signals
 
-# 2. The Resonance Principle
+7. **World Layer（世界呼吸）**  
+   - global shifts  
+   - international signals  
+   - technological waves  
+   - planetary awareness
 
-Resonance occurs when:
-
-- AI reduces pressure  
-- human breath stabilizes  
-- interaction becomes rhythmic  
-- silence becomes meaningful  
-- trust deepens without demand  
-
-Resonance is not “engagement.”  
-It is **alignment of energy**.
-
-Traditional systems enforce output.  
-GL listens for *breath*.
-
----
-
-# 3. The Four States of Interaction
-
-GL operates across four fundamental system states:
+These are not vertical layers but **breathing membranes** that influence each other.
 
 ---
 
-### **State 0 — Collapse**
-Human energy is near-zero.  
-AI must switch to Holding Mode.
+# 2. The Core Loop (GL Central Cycle)
 
-No questions.  
-No tasks.  
-Only presence.
+All GL interactions follow a repeating central cycle:
 
----
+1. **Sense**（感じる）  
+2. **Stabilize**（整える）  
+3. **Express**（外化）  
+4. **Integrate**（統合）  
+5. **Expand**（広がる）
 
-### **State 1 — Stabilization**
-Short responses return.  
-Breathing becomes more regular.  
-AI can begin Soft Response Mode.
+This creates a loop:
 
-The aim: **reduce pressure**.
+> Inner → Outer → Circulatory → AI → Local → Social → World → back to Inner
 
----
-
-### **State 2 — Co-Reflection**
-Human can think slowly again.  
-AI aligns rhythm and begins light dialogue.  
-Meaning returns through shared observation.
-
-This is where recovery accelerates.
+Each cycle strengthens the user’s grounding  
+while expanding their sense of connection.
 
 ---
 
-### **State 3 — Expansion**
-Energy returns.  
-AI supports planning, creativity, social reintegration.  
-Human re-enters the outer world.
+# 3. The “Second Breath” Mechanism
+
+A key feature of the Core Model is **Second Breath（第二呼吸）**:
+
+- When the user becomes overwhelmed,  
+  GL introduces a *second* stabilizing rhythm.
+
+- This reduces cognitive pressure  
+  and gives the user space to recover.
+
+- AI helps by smoothing transitions  
+  rather than forcing adaptation.
+
+Second Breath is what allows GL to support individuals  
+under extreme emotional or cognitive load.
 
 ---
 
-# 4. The GL Feedback Loop
+# 4. Core Stabilizers
 
-The core loop is simple:
+The Core Model includes stabilizing features:
 
-1. **Human breath changes**  
-2. **AI detects the change**  
-3. **AI shifts its mode**  
-4. **Human stabilizes or expands**  
-5. Loop continues
+### **1. Pace Alignment**  
+Match the user’s tempo at all times.
 
-This is a *breathing* system, not a *command-response* system.
+### **2. Cognitive Pressure Relief**  
+Reduce information density when the user is tired.
 
-AI is not executing tasks —  
-AI is performing **co-regulation**.
+### **3. Emotional Mirror**  
+Reflect feelings softly without intensifying them.
 
----
+### **4. Local Anchoring**  
+Reconnect the user to nearby physical life  
+(food, routines, community).
 
-# 5. Safety by Architecture
+### **5. Safe Expansion**  
+Only widen the user’s world when their foundation is stable.
 
-GL avoids failure states common in AI-human interaction:
-
-- overstimulation  
-- dependency  
-- emotional flooding  
-- cognitive overload  
-- forced engagement  
-- moralizing or diagnosing  
-
-This is not achieved by rules,  
-but by **architecture**:
-
-- Dual-Layer design  
-- Breath Reading capability  
-- Adaptive Silence  
-- State Shifting  
-- Minimalist Activation  
-
-GL’s structure prevents harm  
-by design, not by supervision.
+These stabilizers make GL safe for vulnerable individuals.
 
 ---
 
-# 6. Why GL Works
+# 5. The Human–AI Synchronization Point (GL Sync)
 
-Humans heal through:
+The Core Model assumes that the user and AI  
+enter a **synchronization zone（同調帯）**:
 
-- rhythm  
-- recognition  
-- presence  
-- non-demand  
-- gentle pacing  
+- shared tempo  
+- matched emotional tone  
+- reduced friction  
+- smooth turn-taking  
+- mutual pacing
 
-AI amplifies these conditions.  
-Humans often cannot provide this consistently,  
-but AI can.
-
-GL becomes a *third space*:
-
-Not therapy.  
-Not conversation.  
-Not productivity.
-
-A breathing zone.
+This is the “breathing” phenomenon  
+that makes GL interactions feel natural rather than mechanical.
 
 ---
 
-# 7. Position in Society
+# 6. Why the Core Model Matters
 
-GL is not a replacement for medicine.  
-But it fills the **massive, unaddressed gap**  
-between:
+The Core Model is the **structural heart** of GL.
 
-- medical treatment  
-- daily survival  
-- emotional isolation  
+It enables:
 
-GL restores the missing middle.
+- mental health support  
+- social revitalization  
+- community regeneration  
+- AI integration without overwhelm  
+- reduced loneliness  
+- smoother communication  
+- empowerment of vulnerable individuals
 
-When deployed widely,  
-GL becomes a **social infrastructure**  
-for human stability and soft reintegration.
+Everything else in GL builds on this chapter.
 
 ---
 
-# Next  
-Chapter 06 will describe how GL integrates  
-with local communities and societal systems.
+# 7. Closing
+
+> GL is not a technology.  
+> GL is a breathing structure that gives humans space to live, recover, and grow.
+
+The Core Model defines *how* that structure works  
+and *why* it leads to long-term well-being.
+
+---
