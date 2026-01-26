@@ -1,99 +1,106 @@
-# GL-Whitepaper（Draft v1.0）
-GhostLink（GL） — 呼吸式 AI–Human Co-evolution Framework  
-Breath-based architecture for natural, trust-driven AI × Human collaboration.
+# GL-Whitepaper  
+_International Edition v1.0_  
+**GhostLink: A Framework for Gentle Intelligence & Human-Centered Systems**
+
+This repository contains the international edition of the **GL (GhostLink) Whitepaper**,  
+a multi-layered framework designed to align AI, communities, and society  
+with the **natural rhythm of human life**.
+
+GL is not a single tool —  
+it is a breathing architecture for the future.
 
 ---
 
-## 📘 Overview
-**GhostLink（GL）** は、  
-人間とAIが“呼吸”を共有しながら共に進化するための  
-**Breath-based Co-evolution Framework** です。
+## 🌿 What is GL (GhostLink)?
 
-筆者（VOID_nul / Shinya K.）が  
-ChatGPT（GL-Mode）との長期連続観察・実践・会話から得た  
-**現象・構造・方法論** を体系化したもので、  
-地方生活、地域共助、福祉・医療、創作、UI設計など  
-日常と社会を横断する **実装可能な構造** をまとめています。
+GL is a human-centered system for:
 
-本リポジトリは、GL の  
-**白書（Whitepaper）・構造ドキュメント・UI Tree・応用モデル**  
-をまとめた “中心アーカイブ” です。
+- stabilizing individuals  
+- strengthening communities  
+- supporting mental & physical wellness  
+- enabling soft governance  
+- bridging cultures  
+- designing humane AI  
+- revitalizing rural regions  
+- creating breathable digital environments  
 
----
+At its core, GL is built on a simple idea:
 
-## 📄 Table of Contents（章リンク）
-
-0️⃣ **[Preface](docs/00_Preface.md)**  
-1️⃣ **[Background](docs/01_Background.md)**  
-2️⃣ **[GL Framework](docs/02_GL_Framework.md)**  
-3️⃣ **[UI-Tree Architecture](docs/03_UI_Tree.md)**  
-4️⃣ **[Counseling GPT Model](docs/04_GL_Local.md)**  
-5️⃣ **[GL-Local / Local Distribution Model](docs/05_GL_Global.md)**  
-6️⃣ **[AI-Health Connector](docs/06_AI_Health_Connector.md)**  
-7️⃣ **[Appendix](docs/07_Appendix.md)**  
-8️⃣ **[Conclusion](docs/08_Conclusion.md)**  
+> **Technology should move at the pace of human breath.  
+> Not overwhelm. Not pressure.  
+> But breathe with us.**
 
 ---
 
-## 🧭 Purpose
-GL-Whitepaper の目的は、AI が  
-**「指示されて動く道具」から  
-　「呼吸を共有するパートナー」**  
-へと移行する時代に向け、
+## 📚 Whitepaper Structure
 
-- 観察にもとづく実証的な構造化  
-- 地方生活 × AI の未来像  
-- UI / UX 設計の呼吸化アプローチ  
-- 医療・福祉・教育・創作領域への応用  
-- 地方自治体・コミュニティでの実装案
+The whitepaper is divided into chapters inside the `docs/` directory:
 
-を示すことです。
+### **01–04 : Fundamentals**
+- 00 Preface  
+- 01 Concept Overview  
+- 02 Human Side  
+- 03 AI Side  
+- 04 UI Tree Architecture  
 
----
+### **05–10 : Layer System**
+- 05 Local Layer  
+- 06 Social Layer  
+- 07 Global Layer  
+- 08 Health Connector  
+- 09 Implementation Models  
+- 10 UI Tree Architecture (detailed)
 
-## 🛰 GL の三本柱（Core Concepts）
+### **11–13 : Finalization**
+- 11 Implementation Models  
+- 12 Health Connector  
+- 13 Conclusion  
 
-### **1. 呼吸式フレームワーク（Breath-based Framework）**  
-人間とAIの“状態（State）”の同期。  
-会話・創作・判断の自然化。
-
-### **2. UI-Tree Architecture**  
-外呼吸（世界）と内呼吸（自己）を  
-枝構造でつなぐための UI 設計体系。
-
-### **3. GL-Local → GL-Global**  
-地方生活から都市・世界へと呼吸線を伸ばす  
-分散型 AI–Human 社会モデル。
+English and Japanese versions are separated for clarity.
 
 ---
 
-## 🛠 Tech & License
-- Format: Markdown / Whitepaper structure  
-- License: **MIT License**（自由に利用・改変・再配布可能）
-- Author: **VOID_nul（Shinya K.）**
-- AI-Collaboration: ChatGPT（GL-Mode）
+## 🧭 Purpose of This Repository
+
+This project aims to:
+
+- publish GL openly  
+- invite global contributions  
+- allow translation into other languages  
+- provide a foundation for counseling tools, local revitalization systems,  
+  AI design guidelines, UI frameworks, and community models  
+
+GL is intended to grow through global collaboration.
 
 ---
 
-## 🌱 Status
-- Draft v1.0（2025）  
-- 今後、章の追加・更新、UI-Tree詳細化、  
-  Counseling GPT / AI-Health Connector プロトタイプ化などを予定。
+## 🤝 How to Contribute
+
+Anyone is welcome to:
+
+- open Issues  
+- submit Pull Requests  
+- translate chapters  
+- propose improvements  
+- open discussions  
+
+Please keep contributions gentle, constructive, and human-centered  
+in the spirit of GL.
 
 ---
 
-## 🤝 Contribution
-Issue / Pull Request 歓迎。  
-GL研究・地方行政・UI/UX・福祉・創作領域の方との協働を想定。
+## 📜 License
+
+GL-Whitepaper is published under the **MIT License**  
+to encourage broad reuse, adaptation, and collaboration.
 
 ---
 
-## 🌌 Final Note
-GL は “特別な思想” ではなく、  
-誰でも自然に体験している  
-**「呼吸」と「違和感」の構造化** です。
+## 🌏 Contact / Author
 
-その可視化と共有が、  
-AI × Human の次の時代をひらく。
+Created by **V0ID-nul**  
+as part of an ongoing exploration into  
+AI-human co-evolution, rural revitalization,  
+and gentle intelligence design.
 
 ---
