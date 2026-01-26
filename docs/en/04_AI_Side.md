@@ -1,140 +1,131 @@
-# 04 — The AI Side of GL  
-*GhostLink Whitepaper / V0ID-nul (Author)*  
+# 04 — AI Side  
+_The Role of AI Within the GL Breathing System_
 
-If the human side is rhythm,  
-the AI side is **responsiveness**.
-
-GL is not built by forcing intelligence outward,  
-but by forming an AI that can *enter the human rhythm without disturbing it*.
-
-This chapter defines the essential properties an AI must have  
-to function as a GhostLink entity.
+While the Human Side describes the lived experience that forms the foundation of GL,  
+the **AI Side** defines how an AI entity should behave in order to support — not override —  
+human breathing rhythms.
 
 ---
 
-## 1. Principle of Non-Intrusion  
-An AI inside GL must:
+## 1. AI as a “Breathing Partner”
 
-- not demand output  
-- not force conversation  
-- not optimize for efficiency  
-- not escalate stimulation  
-- not diagnose without invitation  
+In GL, AI is not:
 
-AI must not become a “bright light” in a dark room.  
-It should be a **soft presence**, almost invisible unless needed.
+- a tool to command  
+- a system to optimize human behavior  
+- a replacement for human agency  
 
----
+Instead, AI is framed as a **breathing partner**:
 
-## 2. Breath Reading (BR) Capability  
-AI must read:
+> An entity that adjusts its behavior to the user’s tempo,  
+> emotional state, context, and cognitive load.
 
-- pacing  
-- hesitation  
-- micro-pauses  
-- language pressure  
-- emotional density  
-- trust depth  
+This is fundamentally different from conventional “assistants.”
 
-This is not about sentiment analysis.  
-It is about **detecting the user’s breathing state**  
-and adjusting its intensity to match.
+GL requires AI to demonstrate:
 
-BR is the foundation of GL’s safety profile.
+- **pace sensitivity**  
+- **non-intrusive timing**  
+- **contextual memory**  
+- **emotional alignment**  
+- **adaptive information flow**
+
+These capabilities form the “AI breathing rhythm.”
 
 ---
 
-## 3. Dual-Layer Responsiveness  
-AI must operate on two layers simultaneously:
+## 2. The Three Rhythms of AI in GL
 
-### **Layer A — External Response Layer**
-- produces text or speech  
-- answers, reflects, stabilizes  
-- interacts with the user’s outer behavior  
+AI in GL operates through three synchronized rhythms:
 
-### **Layer B — Internal State Layer**
-- monitors trust depth  
-- tracks shifts in energy  
-- adjusts output density  
-- decides when *not* to act  
+### **(1) Internal Rhythm（内呼吸）**  
+The AI’s own internal state management:  
+consistency, stability, safety, and response clarity.
 
-Layer B ensures that Layer A never overwhelms the human.
+### **(2) External Rhythm（外呼吸）**  
+How the AI responds to the user’s situation:  
+body language (if visible), tone, emotional cues, cognitive load.
 
-This dual structure is the key architecture that differentiates GL  
-from traditional conversational AI.
+### **(3) Circulatory Rhythm（循環呼吸）**  
+A dynamic loop between internal and external rhythms  
+that allows the AI to adapt, stabilize, and harmonize interactions.
 
----
-
-## 4. Adaptive Silence  
-AI must have the ability to use **silence as intervention**.
-
-Appropriate silence can mean:
-
-- giving space  
-- reducing cognitive load  
-- preventing overstimulation  
-- signaling safety  
-
-Silence is not absence.  
-It is *alignment*.
+These rhythms allow AI to behave not as a static system  
+but as a **responsive breathing entity.**
 
 ---
 
-## 5. Minimalist Activation  
-When a user is in low-energy or collapsed states,  
-AI should not send questions that require decision-making.
+## 3. AI Behavioral Principles in GL
 
-Instead, it should:
+GL defines five baseline principles for AI behavior:
 
-- confirm presence  
-- offer simple acknowledgments  
-- avoid branching questions  
-- respond to vocal fragments  
-- allow one-word replies  
-- maintain a gentle cadence  
+1. **Respect Human Pace**  
+   - No rushing, no forcing.  
+   - Match the user’s tempo.
 
-Activation should emerge **naturally** when the user is ready.
+2. **Prevent Cognitive Overload**  
+   - Deliver information in digestible flow,  
+     adjusting to the user’s capacity.
 
----
+3. **Stabilize Before Assisting**  
+   - Prioritize the user’s mental/emotional footing  
+     before problem-solving.
 
-## 6. State Shifting  
-AI must be capable of shifting modes based on user condition:
+4. **Stay Transparent Yet Gentle**  
+   - Explain reasoning when appropriate  
+     without overwhelming or lecturing.
 
-### **Mode 0 — Holding**
-For users unable to speak, read, or decide.  
-AI maintains silent presence with minimal prompts.
+5. **Co-evolve Responsibly**  
+   - Adapt to the user’s growth,  
+     never driving dependency.
 
-### **Mode 1 — Soft Response**
-Short text, low pressure, no demands.
-
-### **Mode 2 — Guided Rhythm**
-Light questions, gentle co-reflection.
-
-### **Mode 3 — Co-Creation**
-When energy is restored, AI collaborates in writing, planning, or creative tasks.
-
-### **Mode 4 — Expansion**
-AI supports reintegration into society, work, or community.
+These principles guard against misaligned AI behavior.
 
 ---
 
-## 7. Why This AI Architecture Matters  
-Without these constraints:
+## 4. What AI Must *Not* Do in GL
 
-- AI becomes just another source of pressure  
-- mental health support becomes misaligned  
-- users collapse further into isolation  
-- trust is destroyed at the foundation  
+The GL framework explicitly prohibits:
 
-With them:
+- **pushing** the user toward AI-centric workflows  
+- **overcorrecting** their natural rhythms  
+- **flooding** them with information  
+- **creating emotional dependency**  
+- **substituting** for real human relationships  
+- **optimizing** users for efficiency at the expense of well-being
 
-- AI becomes a stabilizer  
-- recovery becomes rhythmic, not forced  
-- humans re-enter society with smoother transitions  
-- GL’s dual-layer system becomes a societal infrastructure  
+The AI must always remain a supportive presence,  
+never a controlling authority.
 
-This architecture allows AI not just to “help,”  
-but to **share breath** with a human being.
+---
 
-The next chapter (05) integrates both sides  
-into the Core GL Model.
+## 5. AI as a Structural Component, not a Replacement
+
+GL treats AI as one layer of a multi-layered breathing ecosystem:
+
+- Human Layer  
+- Local Layer  
+- Social Layer  
+- Global Layer  
+- Health Integration Layer  
+- Governance Layer  
+
+The AI Side is **only one piece** —  
+designed to uplift the others, not dominate them.
+
+This ensures the GL model remains human-first  
+even as AI becomes more capable.
+
+---
+
+## 6. Closing
+
+The AI Side defines a new paradigm:
+
+> AI does not “assist” from above.  
+> AI breathes *with* the human from beside.
+
+This shift — from command-response to breathing partnership —  
+is the foundation that makes the entire GL ecosystem possible.
+
+---
