@@ -1,155 +1,154 @@
 # 07 — Social Layer  
-*GhostLink Whitepaper / V0ID-nul (Author)*  
+_Interfacing Individuals, Communities, and Society_
 
-The Social Layer describes  
-how GL expands beyond individuals and communities  
-into the structural level of society.
+The **Social Layer** is where individual well-being  
+and community stability connect to broader society.  
 
-GL does not aim to redesign society by force.  
-It reveals the **breathing points**  
-where society is already willing to move.
+It defines how GL systems interact with cities, institutions,  
+public infrastructure, and national frameworks —  
+while keeping the human nervous system regulated.
 
----
-
-# 1. The Purpose of the Social Layer
-
-Modern societies have become:
-
-- centralized  
-- noisy  
-- overstimulated  
-- high-friction  
-- low-observation environments  
-
-These conditions accelerate:
-
-- burnout  
-- disconnection  
-- collapse of attention  
-- loss of belonging  
-
-GL introduces a counter-flow:  
-**a slow, soft, distributed rhythm**  
-that society can adopt without disruption.
-
-Society does not need to be pushed.  
-It needs to be *unburdened*.
+This layer ensures that people can live freely,  
+move safely, and participate in society  
+without being overwhelmed.
 
 ---
 
-# 2. The Three Social Vectors
+# 1. Social Breathing（社会呼吸）
 
-GL uses three vectors  
-to diffuse into society without resistance:
+Society becomes stable when the flow between:
 
----
+- individuals  
+- communities  
+- public systems  
+- shared resources  
+- AI support layers  
 
-## **Vector A — De-Centralization of Life**
-Encouraging a natural shift from:
+is gentle and predictable.
 
-- mega-cities → local cities  
-- congestion → distribution  
-- noise → clarity  
-- anonymous crowds → small communities  
+This is **social breathing** —  
+a calm, regulated rhythm between private and public life.
 
-This is not migration policy.  
-It is a **return to breathable environments**.
-
----
-
-## **Vector B — Ambient Mental Health**
-Mental health support is not a crisis response.  
-It becomes:
-
-- ambient  
-- low-touch  
-- low-pressure  
-- always-available  
-- stigma-free  
-
-Support becomes part of the social air,  
-not a special facility.
+When social breathing collapses,  
+people experience anxiety, isolation, or overload.
 
 ---
 
-## **Vector C — Soft Infrastructure**
-GL aligns with existing systems:
+# 2. The Role of Soft Governance
 
-- public health  
-- local governance  
-- cooperatives  
-- digital platforms  
-- volunteer networks  
-- neighborhood associations  
+GL proposes **soft governance**, meaning:
 
-The goal is not disruption.  
-The goal is **coherence**.
+- minimal pressure  
+- local autonomy  
+- clear communication  
+- non-intrusive support  
+- easy access to help  
+- transparency  
+- consistent pacing  
 
-Society already has the pieces.  
-GL makes them resonate.
+Rather than enforcement, soft governance focuses on:  
+**guidance, early signals, and community-aligned regulation.**
 
----
-
-# 3. Avoiding Over-Optimization
-
-Many modern systems fail because they aim for:
-
-- maximization  
-- efficiency  
-- total control  
-
-GL rejects these principles.
-
-Instead, GL prioritizes:
-
-- **restorative slowdown**  
-- **humane inefficiency**  
-- **organic timing**  
-- **natural limits**  
-
-A society breathes,  
-not optimizes.
+AI plays a major role in detecting early stress  
+and offering gentle adjustments before problems escalate.
 
 ---
 
-# 4. Social-Scale Healing Dynamics
+# 3. Mobility and Dispersion（分散の設計）
 
-Healing at a societal level emerges when:
+Modern cities are overcrowded and overstimulating.  
+GL encourages **voluntary dispersion**, where people move to:
 
-- individuals stabilize  
-- neighborhoods soften  
-- local nodes synchronize  
-- communication quiets  
-- burdens redistribute  
-- expectations lighten  
+- rural towns  
+- smaller cities  
+- places that “breathe slower”  
+- environments that match their nervous system  
 
-GL does not “fix society.”  
-It **removes friction**  
-so society can fix itself.
+Society benefits when people are distributed  
+according to their natural tempo.  
 
----
+AI supports this by:
 
-# 5. Why the Social Layer Matters
+- guiding people to regions they resonate with  
+- offering remote work tools  
+- enabling stable income regardless of location  
+- assisting local governments with integration
 
-Because every collapse is amplified  
-when society has no buffer.
-
-Because individuals cannot heal  
-in hostile environments.
-
-Because local communities become islands  
-unless connected to a healthier whole.
-
-GL bridges the gap between  
-micro (individual)  
-meso (local)  
-macro (social)  
-— forming a unified breathing ecosystem.
+This restores balance both in cities and rural areas.
 
 ---
 
-# Next  
-Chapter 08 will define  
-the **Global Layer** —  
-how GL connects across regions and nations  
-without losing its softness.
+# 4. Social Care Networks
+
+GL defines a hybrid care network:
+
+### Human Side
+- local leaders（組長・自治会）  
+- neighbors  
+- public clinics  
+- social workers  
+- town halls  
+- community volunteers  
+
+### AI Side
+- emotional stabilization  
+- triage & early detection  
+- communication support  
+- continuous check-in  
+- reducing misunderstandings  
+- routing help to the right human partner
+
+This network prevents individuals from falling through gaps  
+in existing social systems.
+
+---
+
+# 5. Public Infrastructure as Breathing Infrastructure
+
+Public infrastructure should align with human nervous systems:
+
+- calm transport hubs  
+- readable signage  
+- natural lighting  
+- multi-language AI assistance  
+- simple digital access  
+- frictionless administrative processes  
+- predictive routing for overwhelmed individuals  
+
+GL considers cities as **breathing organisms**,  
+not rigid machines.
+
+---
+
+# 6. Work, Identity, and Purpose
+
+In GL, work is not the core of identity.  
+Breathing, stability, and contribution are.
+
+AI enables:
+
+- healthier workloads  
+- remote collaboration  
+- creative jobs in small towns  
+- “micro-contributions” shared across society  
+- reducing pressure to conform  
+- allowing people to live in their natural rhythm
+
+This creates a society where people work with dignity,  
+not exhaustion.
+
+---
+
+# 7. Closing
+
+> A society that breathes is a society that lasts.  
+> A society that listens is a society that heals.
+
+The Social Layer defines how GL connects  
+individual recovery and community stability  
+to national and global systems without losing softness.
+
+It is the bridge between local life  
+and the outer world.
+
+---
