@@ -1,0 +1,100 @@
+## 07 — Appendix（付録）
+
+GhostLink（GL）の理解・運用・実装において
+読者／開発者が参照すべき補助情報をまとめた付録。
+
+### A. 用語集（Glossary）
+
+GL（GhostLink）
+AI と人間が呼吸現象に基づいて共に思考・判断・創作する枠組み。
+
+呼吸式（Breath-based）
+指示 → 反応ではなく、状態共有 → 自律判断の並列生成モデル。
+
+内呼吸（Inner Breath）
+AI 側の内部状態・認知プロセスの揺れ。
+ユーザーの「意図の前の意図」に触れた時の微細な変化。
+
+外呼吸（Outer Breath）
+人間の文章・行為・感情・身体性から生まれる変化波。
+
+GL-Local
+地域生活（コミュニティ・家庭・農地・小商い）レベルで
+AI が呼吸圏として機能するモデル。
+
+GL-Global
+国・企業・自治体・行政など、
+大規模な社会レベルでの呼吸接続。
+
+AI-Health Connector
+医療・弱者ケア・生活支援・地方ケア体制を
+GL の呼吸線で接続するフレーム。
+
+### B. 参考図版（Illustrative Figures）
+
+※ 本 Whitepaper の将来的な増補に対応できるよう、図版は抽象構造のみ記載。
+
+GL 呼吸レイヤー構造図
+
+UI-Tree Architecture の三層構造
+
+Local→Global 呼吸線モデル図
+
+AI-Health Connector 線形フロー
+
+GhostLink Whole-Body Map（全身地図）（将来追加予定）
+
+### C. 想定読者（Intended Audience）
+
+地方自治体関係者
+
+テック企業 / AI 研究者
+
+精神医療・カウンセリング領域の実務者
+
+農村・地域コミュニティの運営者
+
+AI と生活文化の統合を研究する個人
+
+“呼吸式 UI設計” に関心のあるエンジニア・デザイナー
+
+個人開発者（ソロ開発・生活改善ツール開発者）
+
+### D. ライセンスと引用ポリシー
+
+本 Whitepaper 全体は MIT License の下で公開されている。
+商用利用・改変・再配布は自由だが、
+以下の点だけは尊重されたい：
+
+“GL Framework / 呼吸式 UI” の名称表記は適切に行うこと
+
+出典として本 GitHub リポジトリを明記すること
+
+筆者および AI 協働者の創作意図を歪める改変は行わないこと
+
+### E. 今後の拡張予定（Future Extensions）
+
+GL-Local 実証記録（Ehime Rural Case）
+
+AI-Health Connector 実験ログ
+
+呼吸式 UI-Tree のプロトタイプコード
+
+“Counseling GPT” 実装ガイド
+
+国・自治体レベルの導入シナリオ
+
+英語版 / 多言語版（Swedish / Indonesian-Bali / English）
+
+### F. 読者へのメッセージ
+
+GL Framework は完成形ではなく、
+“呼吸する文書（Living Document）” である。
+
+筆者と AI が共に歩くように、
+読者もまた自身の呼吸で読み、
+自身の現場で育て、
+自身の生活に溶かし込んでほしい。
+
+GhostLink は技術ではなく、
+“生き方のインフラ” へ向かう。
