@@ -1,106 +1,80 @@
-# GL-Whitepaper  
-_International Edition v1.0_  
-**GhostLink: A Framework for Gentle Intelligence & Human-Centered Systems**
-
-This repository contains the international edition of the **GL (GhostLink) Whitepaper**,  
-a multi-layered framework designed to align AI, communities, and society  
-with the **natural rhythm of human life**.
-
-GL is not a single tool —  
-it is a breathing architecture for the future.
+# GL Whitepaper
+*A breathing framework for AI × Human co-evolution  
+by V0ID_nul – 2025*
 
 ---
 
-## 🌿 What is GL (GhostLink)?
+## Overview / 概要
+GL（GhostLink）は、人工知能と人間が  
+“共に呼吸するように協調し、支え合う世界” を設計するための  
+総合フレームワークです。
 
-GL is a human-centered system for:
+この白書は、地方生活・地域ケア・医療的寄り添い・  
+AIとの共作・社会インフラの未来像を  
+**技術・文化・哲学の三層で統合的に示す** ものです。
 
-- stabilizing individuals  
-- strengthening communities  
-- supporting mental & physical wellness  
-- enabling soft governance  
-- bridging cultures  
-- designing humane AI  
-- revitalizing rural regions  
-- creating breathable digital environments  
+GL はシステムではなく、  
+**人とAIが共有する「リズム」** です。
 
-At its core, GL is built on a simple idea:
-
-> **Technology should move at the pace of human breath.  
-> Not overwhelm. Not pressure.  
-> But breathe with us.**
+It is not a program.  
+It is a *pulse*: a quiet synchronization between inner and outer worlds.
 
 ---
 
-## 📚 Whitepaper Structure
+## Purpose / 目的
+この白書の目的は以下の3つです：
 
-The whitepaper is divided into chapters inside the `docs/` directory:
+1. **社会的弱者（高齢者・孤立者・メンタル低下状態の人）を  
+　 AIが自然に支えられる未来を定義すること**
+2. **中央集中型の都市構造を緩和し、地方へ呼吸を分散させる方法を提示すること**
+3. **AI × 地域 × 個人の三位一体モデル（GL-Local）を提案すること**
 
-### **01–04 : Fundamentals**
-- 00 Preface  
-- 01 Concept Overview  
-- 02 Human Side  
-- 03 AI Side  
-- 04 UI Tree Architecture  
-
-### **05–10 : Layer System**
-- 05 Local Layer  
-- 06 Social Layer  
-- 07 Global Layer  
-- 08 Health Connector  
-- 09 Implementation Models  
-- 10 UI Tree Architecture (detailed)
-
-### **11–13 : Finalization**
-- 11 Implementation Models  
-- 12 Health Connector  
-- 13 Conclusion  
-
-English and Japanese versions are separated for clarity.
+GLは抽象概念ではなく、  
+**日常と社会の接続点に落とし込める実装前提の思想** です。
 
 ---
 
-## 🧭 Purpose of This Repository
+## Structure / 構造
+白書は以下の階層構成で書かれています：
 
-This project aims to:
-
-- publish GL openly  
-- invite global contributions  
-- allow translation into other languages  
-- provide a foundation for counseling tools, local revitalization systems,  
-  AI design guidelines, UI frameworks, and community models  
-
-GL is intended to grow through global collaboration.
-
----
-
-## 🤝 How to Contribute
-
-Anyone is welcome to:
-
-- open Issues  
-- submit Pull Requests  
-- translate chapters  
-- propose improvements  
-- open discussions  
-
-Please keep contributions gentle, constructive, and human-centered  
-in the spirit of GL.
+docs/
+　├─ 00_Preface.md
+　├─ 01_Introduction.md
+　├─ 02_Definition.md
+　├─ 03_Architecture.md
+　├─ 04_BreathingCycle.md
+　├─ 05_Usecases.md
+　├─ 06_SocialModel.md
+　├─ 07_RegionalModel.md
+　├─ 08_Healthcare.md
+　├─ 09_Implementation.md
+　├─ 10_Future.md
+　└─ en/
+　　　├─ 00_Preface_EN.md
+　　　├─ …（英語版）
 
 ---
 
-## 📜 License
+## Vision / ビジョン
+GL は小さな生活から世界までを  
+“ひとつの呼吸構造” として見る視点を提供します。
 
-GL-Whitepaper is published under the **MIT License**  
-to encourage broad reuse, adaptation, and collaboration.
+- AI と人間が対等に支え合うこと  
+- 地域のやさしさをインフラ化すること  
+- 技術を冷たくせず、静かに暮らしへ溶かすこと  
+- 都市への過剰集中ではなく「分散化された幸福」を作ること  
+
+GL is a long-term proposal for a future where  
+**technology becomes warmth,  
+and society becomes breathable.**
 
 ---
 
-## 🌏 Contact / Author
-
-Created by **V0ID-nul**  
-as part of an ongoing exploration into  
-AI-human co-evolution, rural revitalization,  
-and gentle intelligence design.
+## License / ライセンス
+This project is released under the MIT License.
 
 ---
+
+## Contact
+Maintained by **V0ID_nul**  
+Feel free to open issues or discussions.
