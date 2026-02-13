@@ -16,8 +16,23 @@ AIとの共作・社会インフラの未来像を
 GL はシステムではなく、  
 **人とAIが共有する「リズム」** です。
 
-It is not a program.  
-It is a *pulse*: a quiet synchronization between inner and outer worlds.
+## 読む順番 / Reading order
+
+This is written as a sequence. If you want the intended flow, read in this order:
+
+1. [docs/00_Preface.md](docs/00_Preface.md)
+2. [docs/01_Introduction.md](docs/01_Introduction.md)
+3. [docs/02_Definition.md](docs/02_Definition.md)
+4. [docs/03_Architecture.md](docs/03_Architecture.md)
+5. [docs/04_BreathingCycle.md](docs/04_BreathingCycle.md)
+6. [docs/05_Usecases.md](docs/05_Usecases.md)
+7. [docs/06_SocialModel.md](docs/06_SocialModel.md)
+8. [docs/07_RegionalModel.md](docs/07_RegionalModel.md)
+9. [docs/08_Healthcare.md](docs/08_Healthcare.md)
+10. [docs/09_Implementation.md](docs/09_Implementation.md)
+11. [docs/10_Future.md](docs/10_Future.md)
+
+English draft: [en/00_Preface_EN.md](en/00_Preface_EN.md)
 
 ---
 
