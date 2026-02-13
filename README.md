@@ -5,16 +5,30 @@ by V0ID_nul – 2025*
 ---
 
 ## Overview / 概要
-GL（GhostLink）は、人工知能と人間が  
-“共に呼吸するように協調し、支え合う世界” を設計するための  
-総合フレームワークです。
 
-この白書は、地方生活・地域ケア・医療的寄り添い・  
-AIとの共作・社会インフラの未来像を  
-**技術・文化・哲学の三層で統合的に示す** ものです。
+### TL;DR
 
-GL はシステムではなく、  
-**人とAIが共有する「リズム」** です。
+### Extended Description
+
+GL (GhostLink) is a practical framework for designing AI × Human co-evolution
+through rhythm, breath, and trust.
+
+This whitepaper is written for people who are building systems,
+but also for people who are living inside them.
+
+It is not a manifesto.
+It is a quiet implementation proposal.
+
+---
+
+GL（GhostLink）は、呼吸・リズム・信頼を軸に、
+AIと人間の共進化を設計するための実践フレームワークです。
+
+この白書は、システムを作る人のためだけでなく、
+そのシステムの中で生きる人のためにも書かれています。
+
+これは宣言ではありません。
+静かな実装提案です。
 
 ## 読む順番 / Reading order
 
