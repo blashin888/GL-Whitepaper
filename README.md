@@ -99,6 +99,33 @@ and society becomes breathable.**
 
 ---
 
+## Safety note / 安全に関する注意
+
+This document is not a call for conflict.
+Please do not target, harass, or attempt to identify any individual connected to this project.
+
+本書は対立を煽るためのものではありません。
+本書や関連人物に対する特定・攻撃・嫌がらせ等は絶対に行わないでください。
+
+### Why this matters / なぜ必要か
+
+Ideas can be copied, reframed, and weaponized by third parties.
+In a networked society, it is easy to fabricate a "culprit" and redirect anger toward an individual.
+This risk exists regardless of the author's intent.
+
+本書の内容は、第三者によって切り取られ、改変され、悪用され得ます。
+ネット社会では「火付け役」を捏造し、個人に怒りを誘導することが容易です。
+これは筆者の意図とは無関係に発生します。
+
+GL is a framework for reducing harm, not producing new targets.
+If your reading leads you to hostility, pause—your direction is already wrong.
+
+GLは人を守るためのフレームワークであり、
+新しい攻撃対象を生むための道具ではありません。
+この文章を読んで攻撃衝動が生まれたなら、そのベクトルは最初から誤っています。
+
+---
+
 ## License / ライセンス
 This project is released under the MIT License.
 
