@@ -1,3 +1,13 @@
+## Safety note
+
+This document is not written for conflict.
+
+GL is a framework for reducing harm,
+not for creating new targets.
+
+If your reading shifts toward hostility,  
+pause — the movement has already drifted.
+
 # 00 | Preface
 
 This whitepaper is the result of daily observation,  
