@@ -4,17 +4,17 @@ At the center of GL is a simple cycle:
 
 > Observe → Interpret → Respond → Rest
 
-Already flowing through daily life.
+Already flowing through daily life,
+not confined to the inside or the outside,
+moving between inner dialogue, AI, others, and daily life.
 
-Not confined to the inside or the outside.
-Moving between inner dialogue, AI, others, and daily life.
 At times, AI may serve as a starting point,
 leading into inner dialogue and back again.
 From there, the next observation opens.
 
 Passing through rest,
 the quality of decisions changes,
-carrying into the next observation.
+and carrying into the next observation.
 
 Observation begins when something is noticed.
 
