@@ -38,11 +38,13 @@ Recognition may occur later.
 
 ## Entry points
 
-If unsure where to begin:
+You may start here:
 
 - Core Loop  
 - GL Local  
 - MVP  
+- Relationships
+  (distance, DM, place)
 
 ---
 
@@ -64,13 +66,13 @@ If unsure where to begin:
 
 - Specific companies are not the focus  
 - Interpretation is intentionally left open  
-- This document may change over time  
+- This document may change over time, through use
 
 ---
 
 ## Legacy Overview
 
-Below is the previous version of the README, preserved for reference.
+Below is the previous version of the README, kept as a previous state
 
 ---
 
