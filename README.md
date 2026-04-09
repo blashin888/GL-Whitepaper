@@ -50,15 +50,15 @@ You may start here:
 
 ## Structure
 
-- Core Loop  
-- Field (daily life)  
-- Language and interpretation  
-- Relationships and distance  
-- Internal dynamics  
-- Time and generational perspective  
-- Risks and limits  
-- Trace  
-- MVP  
+- [Core Loop](docs/en/02_GL_Framework.md)  
+- [Field (daily life)](docs/en/06_Local_Layer_Integration.md)  
+- [Language and interpretation](docs/en/10_UI_Tree_Architecture.md)  
+- [Relationships and distance](docs/en/07_Social_Layer.md)  
+- [Internal dynamics](docs/en/05_Core_Model.md)  
+- [Time and generational perspective](docs/en/14_Future_Layer.md)  
+- [Risks and limits](docs/en/09_Integration_Layer.md)  
+- [Trace](docs/en/08_Global_Layer.md)  
+- [MVP](docs/en/11_Implementation_Models.md)  
 
 ---
 
