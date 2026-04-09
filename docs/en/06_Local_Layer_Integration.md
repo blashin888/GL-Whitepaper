@@ -1,3 +1,41 @@
+# GL Local
+
+Not a special place, but already part of daily life.
+
+What you touch,
+what you see,
+what you feel.
+
+They become starting points of observation.
+
+Nature, environment, creation, relationships.
+Their appearance varies by place.
+
+Much remains unformed,
+in states not yet determined.
+
+There is no need to force order,
+or to conclude.
+
+Touch them as they are,
+hold them for a moment,
+and, when needed, enter into inner dialogue.
+
+At times, dialogue with AI
+can support interpretation.
+
+What emerges
+returns to daily life and relationships.
+
+Within this movement,
+observation continues to change.
+
+There is no single correct answer.
+
+Engage at your own pace.
+
+---
+
 # 06 — Local Layer  
 _Community Breathing and Regeneration_
 
