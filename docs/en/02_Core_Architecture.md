@@ -1,4 +1,41 @@
-# 02 — Core Architecture  
+# Core Loop
+
+At the center of GL is a simple cycle:
+
+> Observe → Interpret → Respond → Rest
+
+Already flowing through daily life.
+
+Not confined to the inside or the outside.
+Moving between inner dialogue, AI, others, and daily life.
+At times, AI may serve as a starting point,
+leading into inner dialogue and back again.
+From there, the next observation opens.
+
+Passing through rest,
+the quality of decisions changes,
+carrying into the next observation.
+
+Observation begins when something is noticed.
+
+Interpretation begins when that perception is held,
+and given provisional meaning.
+
+Response may appear as language, action, or silence—
+or not appear at all.  
+Not constant.
+
+Rest is not empty.
+
+Pressure loosens,
+distance returns,
+and relation can shift.
+
+It does not need to be filled.
+
+---
+
+## Core Architecture  
 _The Breath-Based Structural Foundations of GL_
 
 The GL Framework is built on a simple yet powerful insight:
