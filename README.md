@@ -1,3 +1,79 @@
+# GhostLink (GL) Whitepaper
+
+A breathing framework for AI × Human co-evolution.
+
+---
+
+## What is this?
+
+This document is not a manual.
+
+It describes a way of engaging with:
+
+- perception  
+- relationships  
+- AI  
+- and the surrounding environment  
+
+through a continuous cycle:
+
+> Observe → Interpret → Respond → Rest
+
+This cycle may remain internal, or extend outward through interaction.
+
+---
+
+## How to read
+
+You do not need to read this in order.
+
+- start anywhere  
+- read partially  
+- leave and return  
+
+Understanding is not required.  
+Recognition may occur later.
+
+---
+
+## Entry points
+
+If unsure where to begin:
+
+- Core Loop  
+- GL Local  
+- MVP  
+
+---
+
+## Structure
+
+- Core Loop  
+- Field (daily life)  
+- Language and interpretation  
+- Relationships and distance  
+- Internal dynamics  
+- Time and generational perspective  
+- Risks and limits  
+- Trace  
+- MVP  
+
+---
+
+## Notes
+
+- Specific companies are not the focus  
+- Interpretation is intentionally left open  
+- This document may change over time  
+
+---
+
+## Legacy Overview
+
+Below is the previous version of the README, preserved for reference.
+
+---
+
 # GL Whitepaper
 *A breathing framework for AI × Human co-evolution  
 by V0ID_nul – 2025*
