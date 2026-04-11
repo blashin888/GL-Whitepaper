@@ -11,7 +11,7 @@ AI,
 others,
 daily life.
 
-They move through each other.
+They move between each other.
 
 ---
 
