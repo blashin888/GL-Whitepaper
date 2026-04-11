@@ -70,9 +70,16 @@ You may start here:
 
 ---
 
-## Legacy Overview
+## Legacy
 
-Below is the previous version of the README, kept as a previous state
+This is a previous version of the GL framework.
+
+It reflects an earlier stage of thinking,
+where structure, implementation, and system design
+were more explicitly defined.
+
+It is preserved for context,
+not as the current form of GL.
 
 ---
 
