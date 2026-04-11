@@ -72,6 +72,6 @@ You may start here:
 
 ## Legacy
 
-A previous version is preserved here:
+A previous version is preserved as a reference:
 
 → [Legacy Overview](docs/legacy/README_legacy.md)
