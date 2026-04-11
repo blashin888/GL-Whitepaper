@@ -25,11 +25,11 @@ Nothing is forced to stay.
 
 ---
 
-Connections form across context.
+Connections appear across context.
 
-They do not bind.
+They do not hold.
 
-They suggest.
+They point.
 
 ---
 
