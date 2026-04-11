@@ -39,5 +39,5 @@ What fits remains.
 
 What fits disappears into relation.
 
-It becomes part of how life moves.
+It becomes how life moves.
 
