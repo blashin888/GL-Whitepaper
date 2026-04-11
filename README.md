@@ -58,7 +58,7 @@ You may start here:
 - [Time and generational perspective](docs/en/14_Future_Layer.md)  
 - [Risks and limits](docs/en/09_Integration_Layer.md)  
 - [Trace (GlobalLayer)](docs/en/08_Global_Layer.md)  
-- [MVP](docs/en/11_Implementation_Models.md)  
+- [MVP (Implementation Models)](docs/en/11_Implementation_Models.md)  
 
 ---
 
