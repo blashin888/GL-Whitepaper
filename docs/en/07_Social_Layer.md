@@ -46,10 +46,13 @@ society moves.
 When they stall,
 society becomes rigid.
 
-There is a rhythm
+A rhythm forms
 between individuals,
 communities,
 and public systems.
+
+It can be gentle,
+or it can become strained.
 
 When this rhythm is gentle,
 people can move,
