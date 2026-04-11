@@ -6,10 +6,7 @@ They meet within experience.
 
 ---
 
-Inner dialogue,
-AI,
-others,
-daily life.
+Inner dialogue, AI, others, daily life.
 
 They move between each other.
 
