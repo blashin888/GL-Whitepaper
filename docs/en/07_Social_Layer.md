@@ -55,7 +55,7 @@ It can be gentle,
 or it can become strained.
 
 When this rhythm is gentle,
-people can move,
+people move,
 connect,
 and rest without strain.
 
