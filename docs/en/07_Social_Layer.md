@@ -9,7 +9,7 @@ and expressions in public spaces.
 
 The weight of words,
 and how they reach,
-shift depending on the context.
+shift with context.
 
 The same content,
 in a different place,
