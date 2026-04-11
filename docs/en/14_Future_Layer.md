@@ -37,7 +37,7 @@ What fits remains.
 
 ---
 
-If it works,
-it disappears.
+What fits disappears into relation.
 
 It becomes part of how life moves.
+
