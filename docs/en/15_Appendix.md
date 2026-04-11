@@ -37,7 +37,7 @@ Nothing here is necessary.
 
 What is useful will be found.
 
-What is not will fade.
+What does not fit will fade.
 
 ---
 
