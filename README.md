@@ -57,7 +57,7 @@ You may start here:
 - [Internal dynamics](docs/en/05_Core_Model.md)  
 - [Time and generational perspective](docs/en/14_Future_Layer.md)  
 - [Risks and limits](docs/en/09_Integration_Layer.md)  
-- [Trace](docs/en/08_Global_Layer.md)  
+- [Trace (GlobalLayer)](docs/en/08_Global_Layer.md)  
 - [MVP](docs/en/11_Implementation_Models.md)  
 
 ---
