@@ -19,9 +19,8 @@ Sometimes it disappears.
 
 It is not controlled.
 
-It changes with context,
-with distance,
-with time.
+It changes through relation,
+across context, distance, and time.
 
 ---
 
