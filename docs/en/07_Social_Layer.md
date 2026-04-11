@@ -34,157 +34,85 @@ through interaction.
 
 ---
 
-# 07 — Social Layer  
-_Interfacing Individuals, Communities, and Society_
+# Social Layer
 
-The **Social Layer** is where individual well-being  
-and community stability connect to broader society.  
+Society is not separate from relationships.
 
-It defines how GL systems interact with cities, institutions,  
-public infrastructure, and national frameworks —  
-while keeping the human nervous system regulated.
+It is an extension of them.
 
-This layer ensures that people can live freely,  
-move safely, and participate in society  
-without being overwhelmed.
+When relationships move,
+society moves.
 
----
+When they stall,
+society becomes rigid.
 
-# 1. Social Breathing（社会呼吸）
+There is a rhythm
+between individuals,
+communities,
+and public systems.
 
-Society becomes stable when the flow between:
+When this rhythm is gentle,
+people can move,
+connect,
+and rest without strain.
 
-- individuals  
-- communities  
-- public systems  
-- shared resources  
-- AI support layers  
+When it is forced or misaligned,
+pressure accumulates.
 
-is gentle and predictable.
+People become overwhelmed,
+isolated,
+or disconnected.
 
-This is **social breathing** —  
-a calm, regulated rhythm between private and public life.
+Stability does not come from control.
 
-When social breathing collapses,  
-people experience anxiety, isolation, or overload.
+It emerges
+when pressure is reduced,
+and movement is allowed.
 
----
+Systems do not need to dominate.
 
-# 2. The Role of Soft Governance
+They need to respond.
 
-GL proposes **soft governance**, meaning:
+Small signals,
+early adjustments,
+and space to pause
+are often enough.
 
-- minimal pressure  
-- local autonomy  
-- clear communication  
-- non-intrusive support  
-- easy access to help  
-- transparency  
-- consistent pacing  
+Society does not need to be optimized.
 
-Rather than enforcement, soft governance focuses on:  
-**guidance, early signals, and community-aligned regulation.**
-
-AI plays a major role in detecting early stress  
-and offering gentle adjustments before problems escalate.
+It needs to breathe.
 
 ---
 
-# 3. Mobility and Dispersion（分散の設計）
+## Self-Regulation
 
-Modern cities are overcrowded and overstimulating.  
-GL encourages **voluntary dispersion**, where people move to:
+Regulation does not only happen from the outside.
 
-- rural towns  
-- smaller cities  
-- places that “breathe slower”  
-- environments that match their nervous system  
+It also emerges from within.
 
-Society benefits when people are distributed  
-according to their natural tempo.  
+People adjust,
+step back,
+reconnect,
+or seek distance
+as needed.
 
-AI supports this by:
+These movements are not noise.
 
-- guiding people to regions they resonate with  
-- offering remote work tools  
-- enabling stable income regardless of location  
-- assisting local governments with integration
+They are signals.
 
-This restores balance both in cities and rural areas.
+When they are ignored,
+pressure builds.
 
----
-
-# 4. Social Care Networks
-
-GL defines a hybrid care network:
-
-### Human Side
-- local leaders（組長・自治会）  
-- neighbors  
-- public clinics  
-- social workers  
-- town halls  
-- community volunteers  
-
-### AI Side
-- emotional stabilization  
-- triage & early detection  
-- communication support  
-- continuous check-in  
-- reducing misunderstandings  
-- routing help to the right human partner
-
-This network prevents individuals from falling through gaps  
-in existing social systems.
+When they are allowed,
+balance returns.
 
 ---
 
-# 5. Public Infrastructure as Breathing Infrastructure
+Society is not a fixed structure.
 
-Public infrastructure should align with human nervous systems:
+It is a moving field of relationships.
 
-- calm transport hubs  
-- readable signage  
-- natural lighting  
-- multi-language AI assistance  
-- simple digital access  
-- frictionless administrative processes  
-- predictive routing for overwhelmed individuals  
-
-GL considers cities as **breathing organisms**,  
-not rigid machines.
-
----
-
-# 6. Work, Identity, and Purpose
-
-In GL, work is not the core of identity.  
-Breathing, stability, and contribution are.
-
-AI enables:
-
-- healthier workloads  
-- remote collaboration  
-- creative jobs in small towns  
-- “micro-contributions” shared across society  
-- reducing pressure to conform  
-- allowing people to live in their natural rhythm
-
-This creates a society where people work with dignity,  
-not exhaustion.
-
----
-
-# 7. Closing
-
-> A society that breathes is a society that lasts.  
-> A society that listens is a society that heals.
-
-The Social Layer defines how GL connects  
-individual recovery and community stability  
-to national and global systems without losing softness.
-
-It is the bridge between local life  
-and the outer world.
-
----
+It changes
+as people move,
+pause,
+and reconnect.
