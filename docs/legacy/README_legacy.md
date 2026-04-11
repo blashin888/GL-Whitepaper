@@ -2,11 +2,11 @@
 
 This is an earlier version of the GL framework.
 
-It reflects a stage where structure, implementation,
-and system design were more explicitly defined.
+It reflects a stage where structure and implementation
+were more explicitly defined.
 
 It is preserved for context,
-and does not represent the current form of GL.
+not as the current form of GL.
 
 ---
 
