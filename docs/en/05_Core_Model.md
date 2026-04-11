@@ -21,7 +21,9 @@ They form a breathing structure.
 
 The loop moves through them.
 
-Inner, outer, relational, social.
+Inner and outer.
+Between self and others.
+Across layers.
 
 And returns again.
 
