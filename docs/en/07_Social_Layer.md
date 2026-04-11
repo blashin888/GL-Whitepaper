@@ -1,3 +1,39 @@
+# Relationships and Distance
+
+Relationships change across time and distance.
+They continue to move even when apart.
+
+One-on-one dialogue,
+group interactions,
+and expressions in public spaces.
+
+The weight of words,
+and how they reach,
+shift depending on the context.
+
+The same content,
+in a different place,
+carries a different meaning.
+
+When distance is misread,
+friction and misunderstanding can arise.
+
+When rhythms do not align,
+they may appear as discomfort or pressure.
+
+Relationships are not fixed.
+
+Misalignment can occur.
+
+Some differences do not resolve.
+
+There is no need to force alignment.
+
+Relationships continue to change
+through interaction.
+
+---
+
 # 07 — Social Layer  
 _Interfacing Individuals, Communities, and Society_
 
