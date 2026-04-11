@@ -7,6 +7,7 @@ It appears as structure within observation.
 ---
 
 There is a root,
+
 a place that does not move easily.
 
 There are branches,
