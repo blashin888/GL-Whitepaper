@@ -50,7 +50,7 @@ You may start here:
 
 ## Structure
 
-- [Core Loop](docs/en/02_GL_Framework.md)  
+- [Core Loop](docs/en/02_Core_Architecture.md) 
 - [Field (daily life)](docs/en/06_Local_Layer_Integration.md)  
 - [Language and interpretation](docs/en/10_UI_Tree_Architecture.md)  
 - [Relationships and distance](docs/en/07_Social_Layer.md)  
