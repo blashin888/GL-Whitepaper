@@ -31,6 +31,8 @@ Pressure loosens,
 distance returns,
 and relation can shift.
 
+A gate appears here — not as a fixed point, but as a condition that lets the loop continue or pause.
+
 It does not need to be filled.
 
 ---
