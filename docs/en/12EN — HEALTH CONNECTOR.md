@@ -159,9 +159,9 @@ Instead, it creates a moment of pause between intake and response.
 
 This pause serves several functions:
 
-emotional stabilization
-cognitive deceleration
-reduction of impulsive externalization
+- emotional stabilization  
+- cognitive deceleration  
+- reduction of impulsive externalization  
 
 Not all information requires verification.
 Much of it requires non-participation.
@@ -170,10 +170,10 @@ When uncertainty is high, immediate reaction often causes more harm than inaccur
 
 The role of AI in this layer is to regulate response, not to dominate truth:
 
-acknowledging emotional impact without reinforcing panic
-introducing gentle delay before judgment
-encouraging contextual reflection rather than binary conclusions
-
+- acknowledging emotional impact without reinforcing panic  
+- introducing gentle delay before judgment  
+- encouraging contextual reflection rather than binary conclusions
+  
 This forms a personal attenuation layer,
 where information can be processed internally
 without being immediately propagated externally.
