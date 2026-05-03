@@ -88,7 +88,6 @@ It needs to breathe.
 Information attenuation and reaction control.
 
 In contemporary information environments,
-
 the primary risk is not only the presence of misinformation,
 but the speed at which human reactions propagate it.
 
