@@ -143,7 +143,50 @@ The aim is to lower panic, not escalate it.
 
 ---
 
-# 7. Pillars of Responsible Mental-Health AI
+7. Information Attenuation and Reaction Control
+
+In the AI era, the primary risk is not only misinformation itself,
+but the speed and intensity of human reaction to it.
+
+People do not suffer from information alone,
+but from the uncontrolled amplification of that information
+through premature interpretation, sharing, and emotional escalation.
+
+The Health Connector introduces a layer before crisis emerges.
+
+It does not aim to immediately verify or refute every input.
+Instead, it creates a moment of pause between intake and response.
+
+This pause serves several functions:
+
+emotional stabilization
+cognitive deceleration
+reduction of impulsive externalization
+
+Not all information requires verification.
+Much of it requires non-participation.
+
+When uncertainty is high, immediate reaction often causes more harm than inaccuracy itself.
+
+The role of AI in this layer is to regulate response, not to dominate truth:
+
+acknowledging emotional impact without reinforcing panic
+introducing gentle delay before judgment
+encouraging contextual reflection rather than binary conclusions
+
+This forms a personal attenuation layer,
+where information can be processed internally
+without being immediately propagated externally.
+
+By reducing unnecessary amplification,
+the system prevents escalation before it begins.
+
+This is not suppression.
+It is the preservation of clarity, rhythm, and human-scale response.
+
+---
+
+# 8. Pillars of Responsible Mental-Health AI
 
 All mental-health-related AI must follow:
 
@@ -166,7 +209,7 @@ These ensure emotional and medical safety.
 
 ---
 
-# 8. Integration With GL Ecosystem
+# 9. Integration With GL Ecosystem
 
 The Health Connector interacts with:
 
@@ -182,7 +225,7 @@ instead of isolated interventions.
 
 ---
 
-# 9. Example Pathways
+# 10. Example Pathways
 
 ### A. Early Emotional Distress  
 - slight tension → AI stabilizes  
@@ -206,7 +249,7 @@ across age groups and communities.
 
 ---
 
-# 10. Closing
+# 11. Closing
 
 > Healing begins with gentleness.  
 > Care begins with presence.  
