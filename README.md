@@ -65,8 +65,6 @@ You may start here:
 
 Designed to reduce harm before reaction escalates.
 
----
-
 ## Notes
 
 - Specific companies are not the focus  
