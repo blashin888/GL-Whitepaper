@@ -152,7 +152,7 @@ People do not suffer from information alone,
 but from the uncontrolled amplification of that information
 through premature interpretation, sharing, and emotional escalation.
 
-The Health Connector introduces a layer before crisis emerges.
+The Health Connector introduces a layer before crisis takes form.
 
 It does not aim to immediately verify or refute every input.
 Instead, it creates a moment of pause between intake and response.
