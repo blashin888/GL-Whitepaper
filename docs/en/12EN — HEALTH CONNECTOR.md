@@ -181,7 +181,7 @@ without being immediately propagated externally.
 By reducing unnecessary amplification,
 the system prevents escalation before it begins.
 
-This is not suppression.
+This is not suppression.  
 It is the preservation of clarity, rhythm, and human-scale response.
 
 ---
