@@ -143,7 +143,7 @@ The aim is to lower panic, not escalate it.
 
 ---
 
-7. Information Attenuation and Reaction Control
+# 7. Information Attenuation and Reaction Control
 
 In the AI era, the primary risk is not only misinformation itself,
 but the speed and intensity of human reaction to it.
