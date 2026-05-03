@@ -55,9 +55,9 @@ You may start here:
 - [Language and interpretation (UITree)](docs/en/10_UI_Tree_Architecture.md)  
 - [Relationships and distance](docs/en/07_Social_Layer.md)  
 - [Internal dynamics](docs/en/05_Core_Model.md)
-- 
+  
 - Health Connector (mental rhythm, attenuation, care layer)
-- 
+
 - [Time and generational perspective](docs/en/14_Future_Layer.md)  
 - [Risks and limits](docs/en/09_Integration_Layer.md)  
 - [Trace (GlobalLayer)](docs/en/08_Global_Layer.md)  
