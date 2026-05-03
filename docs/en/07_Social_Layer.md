@@ -85,6 +85,23 @@ Society does not need to be optimized.
 
 It needs to breathe.
 
+Information attenuation and reaction control.
+
+Information attenuation and reaction control.
+
+In contemporary information environments,
+
+the primary risk is not only the presence of misinformation,
+but the speed at which human reactions propagate it.
+
+Most systems are designed to detect, verify,
+or correct information after it has already entered circulation.
+
+However, fewer systems address the critical interval
+between perception and reaction.
+
+This interval is where escalation begins.
+
 ---
 
 ## Self-Regulation
