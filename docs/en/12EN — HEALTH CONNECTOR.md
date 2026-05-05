@@ -159,6 +159,8 @@ Instead, it creates a moment of pause between intake and response.
 
 This pause serves several functions:
 
+
+
 - emotional stabilization  
 - cognitive deceleration  
 - reduction of impulsive externalization  
