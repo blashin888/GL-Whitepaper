@@ -146,18 +146,19 @@ The aim is to lower panic, not escalate it.
 # 7. Information Attenuation and Reaction Control
 
 In the AI era, the primary risk is not only misinformation itself,
-but the speed and intensity of human reaction to it.
+but the speed and intensity people reaction to it.
 
 People do not suffer from information alone,
-but from the uncontrolled amplification of that information
+but from its uncontrolled amplification
 through premature interpretation, sharing, and emotional escalation.
 
-The Health Connector introduces a layer before crisis takes form.
+The Health Connector introduces a layer before a crisis takes form.
 
 It does not aim to immediately verify or refute every input.
 Instead, it creates a moment of pause between intake and response.
 
 This pause serves several functions:
+
 
 - emotional stabilization  
 - cognitive deceleration  
