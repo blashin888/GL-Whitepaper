@@ -157,6 +157,8 @@ The Health Connector introduces a layer before a crisis takes form.
 It does not aim to immediately verify or refute every input.
 Instead, it creates a moment of pause between intake and response.
 
+Sometimes, care requires delaying conclusion, not because truth is absent, but because clarity is still emerging.
+
 This pause serves several functions:
 
 
