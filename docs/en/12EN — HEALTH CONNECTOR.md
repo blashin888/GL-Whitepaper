@@ -206,10 +206,10 @@ Language stays calm and predictable.
 ### (4) No Replacement of Professionals  
 AI augments, not substitutes.
 
-### (5) Memory Transparency  
-What is remembered must be chosen by the user.
+### (5) Interpretive Transparency
+Responses should distinguish retrieval from interpretation.
 
-These ensure emotional and medical safety.
+Provisional reasoning must remain visible.
 
 ---
 
