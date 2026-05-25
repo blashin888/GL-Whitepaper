@@ -185,6 +185,17 @@ without being immediately propagated externally.
 By reducing unnecessary amplification,
 the system prevents escalation before it begins.
 
+Attenuation is not merely the slowing of reaction.
+
+It restores selectable connection:
+the ability to distinguish between what requires response,
+what requires delay,
+and what requires no participation at all.
+
+In a permanently connected environment,
+care depends not on constant engagement,
+but on the capacity to regulate access between perception and externalization.
+
 This is not suppression. It is the preservation of clarity, rhythm, and human-scale response.
 This layer exists where most systems currently fail: between perception and reaction.
 
