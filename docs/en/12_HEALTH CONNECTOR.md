@@ -192,6 +192,8 @@ the ability to distinguish between what requires response,
 what requires delay,
 and what requires no participation at all.
 
+Choice requires prior visibility. A response cannot be selected if no alternative rhythm has been made visible. The function of attenuation is therefore not only to delay reaction, but to render multiple tempos observable — allowing connection, pause, and non-participation to become conscious options.
+
 In a permanently connected environment,
 care depends not on constant engagement,
 but on the capacity to regulate access between perception and externalization.
