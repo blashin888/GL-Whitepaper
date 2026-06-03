@@ -192,6 +192,17 @@ the ability to distinguish between what requires response,
 what requires delay,
 and what requires no participation at all.
 
+Inference is not certainty.
+
+Perception is rarely neutral. Humans continuously form provisional interpretations through context, memory, and recurring patterns.
+
+Care does not require eliminating inference.
+It requires preserving awareness that inference remains incomplete.
+
+The role of attenuation is therefore not only to delay reaction, but to create space where assumptions can remain visible, revisable, and unforced.
+
+This distinction helps preserve the gap between interpretation and conclusion, and between attention and projection.
+
 Choice requires prior visibility. A response cannot be selected if no alternative rhythm has been made visible. The function of attenuation is therefore not only to delay reaction, but to render multiple tempos observable — allowing connection, pause, and non-participation to become conscious options.
 
 In a permanently connected environment,
